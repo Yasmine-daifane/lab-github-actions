@@ -14,10 +14,10 @@ jobs:
         working-directory: ./Super-Linter
 
     steps:
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v2
         with:
-          node-version: 16
+          php-version: 7.4
 
       - name: Checkout Code
         uses: actions/checkout@v2
