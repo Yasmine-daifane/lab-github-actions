@@ -22,9 +22,7 @@ To get started with this lab, follow the steps below:
 
 5. Test the CI/CD process by making changes to your project and observing the automated build and deployment.
 
-## Contributing
 
-If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
 
 
 
